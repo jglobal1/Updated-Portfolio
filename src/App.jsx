@@ -271,7 +271,7 @@ function App() {
             <div className="bg-gradient-to-br from-blue-50 to-purple-50 p-4 md:p-8 rounded-xl md:rounded-2xl mb-6 md:mb-0">
               <div className="w-full h-48 md:h-80 bg-gradient-to-r from-blue-400 to-purple-500 rounded-lg md:rounded-xl flex items-center justify-center text-white overflow-hidden">
                 <img 
-                  src="johnson.jpg" 
+                  src="https://media.licdn.com/dms/image/v2/D4E22AQF3JCiNxZrXBw/feedshare-shrink_2048_1536/B4EZbyo6JwHIAo-/0/1747827535024?e=1753315200&v=beta&t=ES8SxSc4S4nuIjPP-3BuzjjcTzPzaJ-JXXeEPMzfcZw" 
                   alt="Profile Picture"
                   className="w-full h-full object-cover"
                 />
