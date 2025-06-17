@@ -188,7 +188,7 @@ function App() {
           <div className="space-y-8 animate-fade-in">
             <div className="w-32 h-32 mx-auto mt-[70px] rounded-full bg-gradient-to-r from-blue-500 to-purple-600 flex items-center justify-center text-white text-4xl font-bold">
                <img 
-                  src="passport11.jpg" // Update this path to match your image filename
+                  src="https://media.licdn.com/dms/image/v2/D4E03AQHbFLh72aMjiA/profile-displayphoto-shrink_200_200/B4EZbr5VMJHcAY-/0/1747714398537?e=1755734400&v=beta&t=oR2wgaGORiH19HhRkcZo2rDezaZ9XW6jK9WB0aE9PSs" // Update this path to match your image filename
                   alt="Profile Picture"
                   className="w-full h-full object-cover"
                   sizes={64}
